@@ -1,4 +1,4 @@
-<h1 align="center">Salut, je m'appelle Pascal Billerach</h1>
+<h1 align="center">Pascal Billerach</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pascal billerach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pascal billerach" height="30" width="40" /></a>
