@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pascal</h1>
 <h3 align="center">A passionate Web Developer from Nantes, France</h3>
+
 - 🌱 I’m currently learning **Python & JAVA at EPSI**
+  
 - 📫 How to reach me **p.billerach@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/pascal-billerach" target="blank">
