@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pascal</h1>
 <h3 align="center">A passionate Web Developer from Nantes, France</h3>
 
-- 🌱 I’m currently learning **Python & JAVA at EPSI**
+- 🌱 2024 : New languages availables :  **Python & JAVA**
   
 - 📫 How to reach me **p.billerach@gmail.com**
 
